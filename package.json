@@ -43,7 +43,7 @@
     "inquirer": "^8.0.0",
     "marked": "^4.3.0",
     "marked-terminal": "^7.2.1",
-    "phylo": "^0.0.2",
+    "phylo": "github:shanmugam001/phylo",
     "semver": "^7.3.5",
     "wrap-ansi": "^7.0.0"
   },
